@@ -83,41 +83,27 @@
     padding-right: 10px;
 }
 
-.mens-1-0-2-0 {
+.mens-addtocart-0 {
     display: flex;
     flex-direction: column;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
+    cursor: pointer;
+    background: rgba(25,180,0,1);
+    border: 1px solid rgba(0,0,0,1);
 }
 
 .mens-1-0-2-0-0 {
     display: flex;
     flex-shrink: 0;
-}
-
-.mens-1-0-2-0-0-0 {
-    width: 235px;
-    height: 35px;
-    flex-shrink: 0;
-    position: relative;
-}
-
-.mens-rectangle_2 {
-    width: 235px;
-    height: 35px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
-    background: rgba(25,180,0,1);
-    border: 1px solid rgba(0,0,0,1);
+    padding-left: 22px;
+    padding-right: 21px;
 }
 
 .mens-add_to_cart-0 {
-    width: 235px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
+    width: 190px;
+    flex-shrink: 0;
     font-family: "Roboto", sans-serif;
     color: rgba(0,0,0,1);
     font-size: 20px;
@@ -185,41 +171,27 @@
     padding-right: 10px;
 }
 
-.mens-1-1-2-0 {
+.mens-rectangle_2 {
     display: flex;
     flex-direction: column;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
+    cursor: pointer;
+    background: rgba(25,180,0,1);
+    border: 1px solid rgba(0,0,0,1);
 }
 
 .mens-1-1-2-0-0 {
     display: flex;
     flex-shrink: 0;
-}
-
-.mens-1-1-2-0-0-0 {
-    width: 235px;
-    height: 35px;
-    flex-shrink: 0;
-    position: relative;
-}
-
-.mens-rectangle_2_ {
-    width: 235px;
-    height: 35px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
-    background: rgba(25,180,0,1);
-    border: 1px solid rgba(0,0,0,1);
+    padding-left: 39px;
+    padding-right: 50px;
 }
 
 .mens-add_to_cart-00 {
-    width: 235px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
+    width: 144px;
+    flex-shrink: 0;
     font-family: "Roboto", sans-serif;
     color: rgba(0,0,0,1);
     font-size: 20px;
@@ -287,41 +259,27 @@
     padding-right: 10px;
 }
 
-.mens-1-2-2-0 {
+.mens-rectangle_2_ {
     display: flex;
     flex-direction: column;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
+    cursor: pointer;
+    background: rgba(25,180,0,1);
+    border: 1px solid rgba(0,0,0,1);
 }
 
 .mens-1-2-2-0-0 {
     display: flex;
     flex-shrink: 0;
+    padding-left: 47px;
+    padding-right: 42px;
 }
 
-.mens-1-2-2-0-0-0 {
-    width: 235px;
-    height: 35px;
+.mens-add_to_cart-8 {
+    width: 144px;
     flex-shrink: 0;
-    position: relative;
-}
-
-.mens-rectangle_2_6 {
-    width: 235px;
-    height: 35px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
-    background: rgba(25,180,0,1);
-    border: 1px solid rgba(0,0,0,1);
-}
-
-.mens-add_to_cart-000 {
-    width: 235px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
     font-family: "Roboto", sans-serif;
     color: rgba(0,0,0,1);
     font-size: 20px;
@@ -396,41 +354,27 @@
     padding-right: 10px;
 }
 
-.mens-2-0-2-0 {
+.mens-rectangle_2_6 {
     display: flex;
     flex-direction: column;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
+    cursor: pointer;
+    background: rgba(25,180,0,1);
+    border: 1px solid rgba(0,0,0,1);
 }
 
 .mens-2-0-2-0-0 {
     display: flex;
     flex-shrink: 0;
+    padding-left: 38px;
+    padding-right: 51px;
 }
 
-.mens-2-0-2-0-0-0 {
-    width: 235px;
-    height: 35px;
+.mens-add_to_cart-7 {
+    width: 144px;
     flex-shrink: 0;
-    position: relative;
-}
-
-.mens-rectangle_2_6-0 {
-    width: 235px;
-    height: 35px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
-    background: rgba(25,180,0,1);
-    border: 1px solid rgba(0,0,0,1);
-}
-
-.mens-add_to_cart-0000 {
-    width: 235px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
     font-family: "Roboto", sans-serif;
     color: rgba(0,0,0,1);
     font-size: 20px;
@@ -498,41 +442,27 @@
     padding-right: 10px;
 }
 
-.mens-2-1-2-0 {
+.mens-rectangle_2_3 {
     display: flex;
     flex-direction: column;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
+    cursor: pointer;
+    background: rgba(25,180,0,1);
+    border: 1px solid rgba(0,0,0,1);
 }
 
 .mens-2-1-2-0-0 {
     display: flex;
     flex-shrink: 0;
+    padding-left: 44px;
+    padding-right: 45px;
 }
 
-.mens-2-1-2-0-0-0 {
-    width: 235px;
-    height: 35px;
+.mens-add_to_cart-3 {
+    width: 144px;
     flex-shrink: 0;
-    position: relative;
-}
-
-.mens-rectangle_2_3 {
-    width: 235px;
-    height: 35px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
-    background: rgba(25,180,0,1);
-    border: 1px solid rgba(0,0,0,1);
-}
-
-.mens-add_to_cart-00000 {
-    width: 235px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
     font-family: "Roboto", sans-serif;
     color: rgba(0,0,0,1);
     font-size: 20px;
@@ -600,41 +530,27 @@
     padding-right: 10px;
 }
 
-.mens-2-2-2-0 {
+.mens-rectangle_2_6-0 {
     display: flex;
     flex-direction: column;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
+    cursor: pointer;
+    background: rgba(25,180,0,1);
+    border: 1px solid rgba(0,0,0,1);
 }
 
 .mens-2-2-2-0-0 {
     display: flex;
     flex-shrink: 0;
+    padding-left: 42px;
+    padding-right: 47px;
 }
 
-.mens-2-2-2-0-0-0 {
-    width: 235px;
-    height: 35px;
+.mens-add_to_cart-70 {
+    width: 144px;
     flex-shrink: 0;
-    position: relative;
-}
-
-.mens-rectangle_2_6-00 {
-    width: 235px;
-    height: 35px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
-    background: rgba(25,180,0,1);
-    border: 1px solid rgba(0,0,0,1);
-}
-
-.mens-add_to_cart-000003 {
-    width: 235px;
-    flex-grow: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
     font-family: "Roboto", sans-serif;
     color: rgba(0,0,0,1);
     font-size: 20px;
