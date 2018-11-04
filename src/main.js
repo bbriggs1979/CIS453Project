@@ -12,6 +12,8 @@ import {
   import Baby from "./pagedraw/baby";
   import Sports from "./pagedraw/sports";
   import Business from "./pagedraw/business";
+  import Home from "./pagedraw/home";
+  import Homereturn from "./pagedraw/homereturn";
 
 class Main extends Component {
   render() {
@@ -35,7 +37,9 @@ class Main extends Component {
                                       </div>
                                       <div className="main-image-81">
                                           <div className="main-0-0-0-0-0-0-0-1-0">
-                                              <img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e377/2094/360e58fcd8aac45c940a2c3b15c5dbaa" className="main-image-6" /> 
+                                            <NavLink to="/homereturn.js">
+                                              <img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e377/2094/360e58fcd8aac45c940a2c3b15c5dbaa" className="main-image-6" />
+                                            </NavLink>
                                           </div>
                                       </div>
                                       <div className="main-login_my_account_my_cart-0">
@@ -85,6 +89,8 @@ class Main extends Component {
               </div>
           </div>
           <div className="main-1">
+                <Route exact path="/" component={Home}/>
+                <Route path="/homereturn.js" component={Homereturn}/>
                 <Route path="/mens.js" component={Mens}/>
                 <Route path="/womens.js" component={Womens}/>
                 <Route path="/kids.js" component={Kids}/>
